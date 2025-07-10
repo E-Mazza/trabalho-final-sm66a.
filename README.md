@@ -16,7 +16,6 @@ Este repositório contém o desenvolvimento de um sistema embarcado para divers�
 - UART
 - Clock
 - Timer
-- EnableInterrupts
 
 
 ## 🛠️ Hardware e Componentes (mínimo 1)
